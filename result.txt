@@ -1,0 +1,131 @@
+Raw date of the student :
+   10905   xiaomei  Female 1994/02/01    2018       hunan
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        53
+        C Programming Language         3        74
+               College English         3        70
+                Control Theory         2        91
+Total score:  288  Average:   72
+   10908    jianfa    Male 1995/07/02    2017       hunan
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        80
+        C Programming Language         3        56
+               College English         3        80
+                Control Theory         2        85
+                        Python         2        96
+Total score:  397  Average: 79.4
+   10914    dahong    Male 1993/02/03    2018   guangdong
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        70
+        C Programming Language         3        59
+               College English         3        79
+                Control Theory         2        87
+                        Python         2        69
+Total score:  364  Average: 72.8
+   10917  xingfeng    Male 1995/02/04    2017     jiangsu
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        77
+        C Programming Language         3        73
+               College English         3        90
+                Control Theory         2        88
+                        Python         2        72
+Total score:  400  Average:   80
+   10919    xiaomi  Female 1993/02/05    2016     beijing
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        76
+        C Programming Language         3        91
+               College English         3        83
+                Control Theory         2        86
+                        Python         2        81
+Total score:  417  Average: 83.4
+   10921     dabin    Male 1992/02/06    2015      hainan
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        79
+        C Programming Language         3        83
+               College English         3        81
+                Control Theory         2        90
+Total score:  333  Average:83.25
+
+School_year=2018 && select C Programming Language && C Programming Language's score<60 :
+   10914    dahong    Male 1993/02/03    2018   guangdong
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        70
+        C Programming Language         3        59
+               College English         3        79
+                Control Theory         2        87
+                        Python         2        69
+Total score:  364  Average: 72.8
+
+average >=80 :
+   10917  xingfeng    Male 1995/02/04    2017     jiangsu
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        77
+        C Programming Language         3        73
+               College English         3        90
+                Control Theory         2        88
+                        Python         2        72
+Total score:  400  Average:   80
+   10919    xiaomi  Female 1993/02/05    2016     beijing
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        76
+        C Programming Language         3        91
+               College English         3        83
+                Control Theory         2        86
+                        Python         2        81
+Total score:  417  Average: 83.4
+   10921     dabin    Male 1992/02/06    2015      hainan
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        79
+        C Programming Language         3        83
+               College English         3        81
+                Control Theory         2        90
+Total score:  333  Average:83.25
+All the students completed 10 credits.
+
+After deleting School_year=2018 's student :
+
+   10908    jianfa    Male 1995/07/02    2017       hunan
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        80
+        C Programming Language         3        56
+               College English         3        80
+                Control Theory         2        85
+                        Python         2        96
+Total score:  397  Average: 79.4
+   10917  xingfeng    Male 1995/02/04    2017     jiangsu
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        77
+        C Programming Language         3        73
+               College English         3        90
+                Control Theory         2        88
+                        Python         2        72
+Total score:  400  Average:   80
+   10919    xiaomi  Female 1993/02/05    2016     beijing
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        76
+        C Programming Language         3        91
+               College English         3        83
+                Control Theory         2        86
+                        Python         2        81
+Total score:  417  Average: 83.4
+   10921     dabin    Male 1992/02/06    2015      hainan
+Course Information: 
+                   Course Name   Credits     Score
+                 Advanced math         4        79
+        C Programming Language         3        83
+               College English         3        81
+                Control Theory         2        90
+Total score:  333  Average:83.25
